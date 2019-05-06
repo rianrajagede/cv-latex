@@ -6,4 +6,12 @@ This is the modified version of the CV template by [Thomas Janssen](http://www.t
 
 ### Change The Color Theme
 
-Change the color by changing the `themecolor` value in `resume.cls`
+Change the color by changing the `themecolor` value in `resume.cls`:
+
+```
+...
+\colorlet{themecolor}{_CHANGE_THE_COLOR_HERE_}
+...
+```
+
+You can see the color list here [https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX#Reference_guide](https://www.overleaf.com/learn/latex/Using_colours_in_LaTeX#Reference_guide)
